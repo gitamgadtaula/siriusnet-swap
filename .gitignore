@@ -9,6 +9,8 @@
 # production
 /build
 
+
+
 # misc
 .DS_Store
 .env.local
@@ -28,6 +30,7 @@ notes.txt
 .vscode/
 
 package-lock.json
+yarn.lock
 
 cypress/videos
 cypress/screenshots
